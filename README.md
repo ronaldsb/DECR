@@ -34,6 +34,3 @@ Diseño de elementos en concreto reforzado v1.0 (DECR)
  instalado el programa de diseño.
 
  Cualquier comentario es bienvenido.
-
- Ronald Steinvorth Berrocal
- ronaldsb@me.com
